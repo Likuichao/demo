@@ -11,6 +11,6 @@ public class test {
         System.out.println(333);
         System.out.println(4441111);
         System.out.println(111111);
-        System.out.println(33333-pull);
+        System.out.println(33333-pull-pull);
     }
 }
